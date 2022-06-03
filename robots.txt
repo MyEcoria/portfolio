@@ -1,0 +1,11 @@
+User-agent: Googlebot
+Disallow: /pawcrush/
+Disallow: /PawGame/
+Disallow: /js/
+Allow: /passwordImg/
+Allow: /imgLol/
+Disallow: /faucet/
+Disallow: /css/
+Allow: https://node.myecoria.com
+
+Sitemap: https://myecoria.com/sitemap.xml
